@@ -1,5 +1,6 @@
-# dio-qa-github
+# Dio-qa-github
 
-##Criando primeiro desafio de projeto sobre git/github
+## Criando primeiro desafio de projeto sobre git/github
 
-###links úteis
+### links úteis
+{Comandos git} (https://www.atlassian.com/br/git/glossary#commands)
